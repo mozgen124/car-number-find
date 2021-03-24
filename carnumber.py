@@ -25,3 +25,7 @@ for c in cnts:
                 if i in spisok_nomer:
                     print(i, end=' ')
             #print(result)
+
+
+#X 6 6 6 A M 6 4
+#B 7 0 0 0 P 2 2
